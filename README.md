@@ -53,6 +53,7 @@ strategy, we have to install it before hand (command in the last section).
 ## Required Commands
 
 ### Serverless Framework CLI
+    sls plugin install --name serverless-plugin-canary-deployments
     sls create --template aws-nodejs : create a nodejs powered yaml template for a service.
     sls invoke local -f my-app: to locally test the function of a service.
     sls invoke -f my-app: to test the deployed function of a service.
