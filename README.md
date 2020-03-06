@@ -7,8 +7,11 @@ Testing a serverless Nodejs application and deploying it to AWS Cloud using AWS 
 
 ### Serverless Framework
 Framework Core: 1.65.0
+
 Plugin: 3.4.1
+
 SDK: 2.3.0
+
 Components: 2.22.3 
 
 
